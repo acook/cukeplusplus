@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Anthony Michael Cook"]
   s.email       = ["anthonymichaelcook@gmail.com"]
-  s.homepage    = "http://github.com/acook/cucumberplusplus"
+  s.homepage    = "http://github.com/acook/cukeplusplus"
   s.summary     = %q{Designed for beauty and simplicity, a Cucumber custom formatter.}
   s.description = %q{This clean and easy to use Cucumber formatter displays scenarios as they are run, displaying failures as they occur.}
 
