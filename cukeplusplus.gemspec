@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.post_install_message = <<-EOS
 
   *****************************************************************
-  * To use the cukeplusplus formatter, simple add                 *
+  * To use the cukeplusplus formatter, simply add                 *
   *   --format 'Cukeplusplus::Formatter'                          * 
   * to your cucumber.yml, Rakefile, or command line call          *
   *****************************************************************
